@@ -1,10 +1,8 @@
 # Personal portfolio
 
-Sources of my personal portfolio.
-React, React Router 4, Redux, Bootstrap 4
+this is my personal portfolio built with:cd
+React, React Router, Redux, Bootstrap 4
 
 Preview:
-http://www.franckboudraa.me
+https://chepkuruipurity.github.io/portfoli_o/
 
-Design presentation:
-http://www.franckboudraa.me/personal-portfolio-presentation/
